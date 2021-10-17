@@ -1,3 +1,4 @@
+![Image of Yaktocat](https://github.com/aniket607/SRS/images/1.png)
 -   [Software Requirements
     Specifications](#software-requirements-specifications)
     -   [RC Music Player](#rc-music-player)
